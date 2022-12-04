@@ -2,4 +2,5 @@
 
 To do:
 Add automatic 1111 webui
-check vae
+
+Check vae
